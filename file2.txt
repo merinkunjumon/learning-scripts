@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-git stash demodoing iby dev2 in file2.
-
-file 2 have some data nowby develepewr 1
-=======
+git stash g iby dev2 in file2.
 changes is doing by develeoper 1 to the samelines to check gitstash.
-
 file 2 have some data nowby develepewr 1
->>>>>>> Stashed changes
